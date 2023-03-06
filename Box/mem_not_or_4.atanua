@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<Atanua Version="Atanua/Win32 1.3.141220 - [No user name set]" ChipCount="24" WireCount="24" key="9077" scale="16">
+    <Chip Name="logic NOT" xpos="4063232" ypos="2195456" rot="0" key="2011612" />
+    <Chip Name="logic NOT" xpos="4063232" ypos="2031616" rot="2" key="2011612" />
+    <Chip Name="logic OR" xpos="3833856" ypos="2097152" rot="1" key="2011612" />
+    <Chip Name="logic OR" xpos="4292608" ypos="2097152" rot="3" key="2011612" />
+    <Chip Name="logic AND" xpos="3670016" ypos="2097152" rot="3" key="2011612" />
+    <Chip Name="logic AND" xpos="4456448" ypos="2097152" rot="1" key="2011612" />
+    <Chip Name="logic NOT" xpos="4063232" ypos="2752512" rot="0" key="2209728" />
+    <Chip Name="logic NOT" xpos="4063232" ypos="2588672" rot="2" key="2209884" />
+    <Chip Name="logic OR" xpos="4292608" ypos="2654208" rot="3" key="2196086" />
+    <Chip Name="logic OR" xpos="3833856" ypos="2654208" rot="1" key="2196796" />
+    <Chip Name="logic AND" xpos="4456448" ypos="2654208" rot="1" key="2200111" />
+    <Chip Name="logic AND" xpos="3670016" ypos="2654208" rot="3" key="2201061" />
+    <Chip Name="logic NOT" xpos="4063232" ypos="3211264" rot="0" key="1863054" />
+    <Chip Name="logic NOT" xpos="4063232" ypos="3080192" rot="2" key="1863054" />
+    <Chip Name="logic OR" xpos="3833856" ypos="3145728" rot="1" key="1863054" />
+    <Chip Name="logic OR" xpos="4292608" ypos="3145728" rot="3" key="1863054" />
+    <Chip Name="logic AND" xpos="3670016" ypos="3145728" rot="3" key="1863054" />
+    <Chip Name="logic AND" xpos="4456448" ypos="3145728" rot="1" key="1863054" />
+    <Chip Name="logic NOT" xpos="4096000" ypos="3702784" rot="0" key="1863054" />
+    <Chip Name="logic NOT" xpos="4096000" ypos="3571712" rot="2" key="1863054" />
+    <Chip Name="logic OR" xpos="3866624" ypos="3637248" rot="1" key="1863054" />
+    <Chip Name="logic OR" xpos="4325376" ypos="3637248" rot="3" key="1863054" />
+    <Chip Name="logic AND" xpos="3702784" ypos="3637248" rot="3" key="1863054" />
+    <Chip Name="logic AND" xpos="4489216" ypos="3637248" rot="1" key="1863054" />
+    <Wire chip1="3" pad1="2" chip2="1" pad2="0" key="2011612" />
+    <Wire chip1="2" pad1="2" chip2="0" pad2="0" key="2011612" />
+    <Wire chip1="1" pad1="1" chip2="2" pad2="0" key="2011612" />
+    <Wire chip1="0" pad1="1" chip2="3" pad2="0" key="2011612" />
+    <Wire chip1="4" pad1="2" chip2="2" pad2="1" key="2011612" />
+    <Wire chip1="5" pad1="2" chip2="3" pad2="1" key="2011612" />
+    <Wire chip1="6" pad1="1" chip2="8" pad2="0" key="2221707" />
+    <Wire chip1="8" pad1="2" chip2="7" pad2="0" key="2222628" />
+    <Wire chip1="7" pad1="1" chip2="9" pad2="0" key="2224033" />
+    <Wire chip1="9" pad1="2" chip2="6" pad2="0" key="2225526" />
+    <Wire chip1="11" pad1="2" chip2="9" pad2="1" key="2227321" />
+    <Wire chip1="10" pad1="2" chip2="8" pad2="1" key="2213480" />
+    <Wire chip1="15" pad1="2" chip2="13" pad2="0" key="1863054" />
+    <Wire chip1="14" pad1="2" chip2="12" pad2="0" key="1863054" />
+    <Wire chip1="13" pad1="1" chip2="14" pad2="0" key="1863054" />
+    <Wire chip1="12" pad1="1" chip2="15" pad2="0" key="1863054" />
+    <Wire chip1="16" pad1="2" chip2="14" pad2="1" key="1863054" />
+    <Wire chip1="17" pad1="2" chip2="15" pad2="1" key="1863054" />
+    <Wire chip1="21" pad1="2" chip2="19" pad2="0" key="1863054" />
+    <Wire chip1="20" pad1="2" chip2="18" pad2="0" key="1863054" />
+    <Wire chip1="19" pad1="1" chip2="20" pad2="0" key="1863054" />
+    <Wire chip1="18" pad1="1" chip2="21" pad2="0" key="1863054" />
+    <Wire chip1="22" pad1="2" chip2="20" pad2="1" key="1863054" />
+    <Wire chip1="23" pad1="2" chip2="21" pad2="1" key="1863054" />
+</Atanua>

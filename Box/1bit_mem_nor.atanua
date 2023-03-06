@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<Atanua Version="Atanua/Win32 1.3.141220 - [No user name set]" ChipCount="24" WireCount="26" key="251084" scale="16">
+    <Chip Name="logic NOR" xpos="3637248" ypos="2326528" rot="2" key="2970216" />
+    <Chip Name="logic NOR" xpos="3637248" ypos="2523136" rot="0" key="2970216" />
+    <Chip Name="logic AND" xpos="3866624" ypos="2555904" rot="3" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3964928" ypos="2326528" rot="0" key="2970216" />
+    <Chip Name="logic AND" xpos="3309568" ypos="2555904" rot="3" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3538944" ypos="2490368" rot="0" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3538944" ypos="2588672" rot="0" key="2970216" />
+    <Chip Name="logic NOT" xpos="3833856" ypos="2949120" rot="3" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3932160" ypos="3178496" rot="0" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3440640" ypos="3178496" rot="0" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3375104" ypos="3211264" rot="0" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3997696" ypos="3211264" rot="0" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3932160" ypos="3309568" rot="0" key="2970216" />
+    <Chip Name="Connection Pin" xpos="3997696" ypos="3309568" rot="0" key="2970216" />
+    <Chip Name="logic AND" xpos="3112960" ypos="3178496" rot="1" key="2887759" />
+    <Chip Name="Connection Pin" xpos="3178496" ypos="2359296" rot="0" key="2898381" />
+    <Chip Name="Connection Pin" xpos="3342336" ypos="3047424" rot="0" key="3392583" />
+    <Chip Name="Connection Pin" xpos="3342336" ypos="3309568" rot="0" key="3405453" />
+    <Chip Name="Connection Pin" xpos="3866624" ypos="3309568" rot="0" key="3401940" />
+    <Chip Name="Connection Pin" xpos="3244032" ypos="3047424" rot="0" key="3384069" />
+    <Chip Name="External Pin" xpos="3211264" ypos="3506176" rot="0" key="3283822">00FFFFFF000000034F5554</Chip>
+    <Chip Name="External Pin" xpos="3899392" ypos="3735552" rot="0" key="3268104">00FFFFFF0000000452454144</Chip>
+    <Chip Name="External Pin" xpos="4030464" ypos="3506176" rot="0" key="3252027">00FFFFFF000000055752495445</Chip>
+    <Chip Name="External Pin" xpos="3964928" ypos="3604480" rot="0" key="3232778">00FFFFFF00000002494E</Chip>
+    <Wire chip1="0" pad1="2" chip2="1" pad2="0" key="2970216" />
+    <Wire chip1="1" pad1="2" chip2="0" pad2="0" key="2970216" />
+    <Wire chip1="2" pad1="2" chip2="3" pad2="0" key="2970216" />
+    <Wire chip1="3" pad1="0" chip2="0" pad2="1" key="2970216" />
+    <Wire chip1="4" pad1="2" chip2="5" pad2="0" key="2970216" />
+    <Wire chip1="5" pad1="0" chip2="6" pad2="0" key="2970216" />
+    <Wire chip1="6" pad1="0" chip2="1" pad2="1" key="2970216" />
+    <Wire chip1="7" pad1="1" chip2="2" pad2="0" key="2970216" />
+    <Wire chip1="7" pad1="0" chip2="8" pad2="0" key="2970216" />
+    <Wire chip1="8" pad1="0" chip2="9" pad2="0" key="2970216" />
+    <Wire chip1="9" pad1="0" chip2="4" pad2="1" key="2970216" />
+    <Wire chip1="4" pad1="0" chip2="10" pad2="0" key="2970216" />
+    <Wire chip1="10" pad1="0" chip2="11" pad2="0" key="2970216" />
+    <Wire chip1="11" pad1="0" chip2="2" pad2="1" key="2970216" />
+    <Wire chip1="8" pad1="0" chip2="12" pad2="0" key="2970216" />
+    <Wire chip1="13" pad1="0" chip2="11" pad2="0" key="2970216" />
+    <Wire chip1="0" pad1="2" chip2="15" pad2="0" key="2896658" />
+    <Wire chip1="15" pad1="0" chip2="14" pad2="1" key="2898381" />
+    <Wire chip1="14" pad1="0" chip2="19" pad2="0" key="3399642" />
+    <Wire chip1="16" pad1="0" chip2="17" pad2="0" key="3392583" />
+    <Wire chip1="17" pad1="0" chip2="18" pad2="0" key="3405453" />
+    <Wire chip1="19" pad1="0" chip2="16" pad2="0" key="3384069" />
+    <Wire chip1="14" pad1="2" chip2="20" pad2="0" key="3265007" />
+    <Wire chip1="21" pad1="0" chip2="18" pad2="0" key="3276446" />
+    <Wire chip1="22" pad1="0" chip2="13" pad2="0" key="3252601" />
+    <Wire chip1="23" pad1="0" chip2="12" pad2="0" key="3227840" />
+</Atanua>

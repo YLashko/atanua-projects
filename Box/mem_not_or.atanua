@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Atanua Version="Atanua/Win32 1.3.141220 - [No user name set]" ChipCount="6" WireCount="6" key="0" scale="16">
+    <Chip Name="logic NOT" xpos="4227072" ypos="2260992" rot="0" key="1855227" />
+    <Chip Name="logic NOT" xpos="4227072" ypos="2129920" rot="2" key="1855227" />
+    <Chip Name="logic OR" xpos="3997696" ypos="2195456" rot="1" key="1855227" />
+    <Chip Name="logic OR" xpos="4456448" ypos="2195456" rot="3" key="1855227" />
+    <Chip Name="logic AND" xpos="3833856" ypos="2195456" rot="3" key="1855227" />
+    <Chip Name="logic AND" xpos="4620288" ypos="2195456" rot="1" key="1855227" />
+    <Wire chip1="3" pad1="2" chip2="1" pad2="0" key="1855227" />
+    <Wire chip1="2" pad1="2" chip2="0" pad2="0" key="1855227" />
+    <Wire chip1="1" pad1="1" chip2="2" pad2="0" key="1855227" />
+    <Wire chip1="0" pad1="1" chip2="3" pad2="0" key="1855227" />
+    <Wire chip1="4" pad1="2" chip2="2" pad2="1" key="1855227" />
+    <Wire chip1="5" pad1="2" chip2="3" pad2="1" key="1855227" />
+</Atanua>
